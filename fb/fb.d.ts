@@ -1,3 +1,7 @@
+/*
+  FBSDK type definition file
+*/
+
 interface FBInitParams {
     appId?: string;
     authResponse?: string;
